@@ -1,3 +1,3 @@
-# Hotel web page
+# Animated Login Form
 
-Web page created with flexbox CSS
+Simple login web page
