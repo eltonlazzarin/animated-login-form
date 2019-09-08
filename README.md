@@ -1,3 +1,3 @@
-# Animated Login Forme
+# Animated Login Form
 
 Simple login web page
